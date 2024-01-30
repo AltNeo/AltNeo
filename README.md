@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Kumar Sinha</h1>
 <h3 align="center">Software Enthusiast Seeking Challenges to Expand Knowledge & Contribute to the Betterment of Society</h3>
 
-- 🔭 I’m currently working on **AWS SAA Certification**
+- My Latest Obsession **Mobile App Development and ML**
+- I Just completed **AWS SAA Certification**
 
-- 🌱 I’m currently learning **DSA, Java**
+- I’m currently learning **DSA, Java**
 
-- 👯 I’m looking to collaborate on **GUI For my SIFS Submission**
+- I’m looking to collaborate on **GUI For my SIFS Submission**
 
-- 📝 I regularly write articles on [https://lets-talk-code.netlify.app/](https://lets-talk-code.netlify.app/)
+- I regularly write articles on [https://lets-talk-code.netlify.app/](https://lets-talk-code.netlify.app/)
 
-- 💬 Ask me about **Python and ML**
+- Ask me about **Python and ML**
 
-- 📫 How to reach me **chaitanya.sinha27@gmail.com**
+- How to reach me **chaitanya.sinha27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
